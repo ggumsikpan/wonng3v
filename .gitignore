@@ -1,10 +1,6 @@
 .claude/
-*.webp
-수정요청*/
-ETF*/
-ISA*/
-우리아이*/
-KakaoTalk_*.jpg
-KakaoTalk_*.png
-스크린샷*.png
-새 텍스트 문서.txt
+원본_썸네일_webp/
+원본_카카오톡/
+원본_스크린샷/
+콘텐츠_글/
+수정요청/
